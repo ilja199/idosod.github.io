@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h2>ilboit</h2>
+<title>ilboit</title>
 <h2>matriklinr: 194041</h2>
 <h1>What kind of personal qualities should a state leader have?</h1>
   <p>Today world political system is the most difficult if to compare with previous centuries and millennium. Although, in some countries state leaders don’t have any significant control over their countries, they remain to be the main influential figures in the foreign policy of the country. So, let's consider what kind of personal qualities should one head of state have?</p>
