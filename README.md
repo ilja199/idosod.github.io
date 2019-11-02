@@ -1,15 +1,9 @@
 <!DOCTYPE html>
 <html>
-<style>
-div {
-    background-color: rgb(255, 214, 238);
-    color: rgb(0, 0, 0);
-    padding: 20px;
-}
-</style>
 <body>
 <h1 align=right>ilboit</h1>
 <h2 align=right>matriklinr: 194041</h2>
+<a href="https://story.taltech.ee/et/">link text</a>
 <h3 align=center>What kind of personal qualities should a state leader have?</h3>
   <p>Today world political system is the most difficult if to compare with previous centuries and millennium. Although, in some countries state leaders don’t have any significant control over their countries, they remain to be the main influential figures in the foreign policy of the country. So, let's consider what kind of personal qualities should one head of state have?</p>
   <p>First of all, a state leader should be highly motivated in his country life, so with a drive and determination he have to try to improve a life of inhabitants of the state. He must have strong leadership qualities and be an effective communicator by itself, as he is the most important person in the country.</p>
