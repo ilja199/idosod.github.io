@@ -12,9 +12,9 @@
   <p>Despite all the difficulties, leaders get a comprehensive remuneration package, including a car with a driver, a house, high salary, outfits and many other privileges. It’s not the easiest work, so the pay for it is high.</p>
 <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
+    <th>+</th>
+    <th>1</th>
+    <th>2</th>
   </tr>
   <tr>
     <td>Jill</td>
