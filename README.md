@@ -17,14 +17,14 @@
     <th>2</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <th>23</th>
+    <th>24</th>
+    <th>25</th>
   </tr>
 </table>
 </body>
