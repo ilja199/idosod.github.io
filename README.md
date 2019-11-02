@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<body bgcolor=rgb(252, 223, 143)>
+<body bgcolor=#FAEBD7>
 <h1 align=right>ilboit</h1>
 <h2 align=right>matriklinr: 194041</h2>
 <h3 align=center>What kind of personal qualities should a state leader have?</h3>
