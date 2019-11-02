@@ -10,7 +10,7 @@
   <p>It is important to look always formal. This applies to both appearance and behavior in general, because journalists are just looking for an occasion to make fun of some incident. That may greatly shake the reputation of the head of state, so he have to control everything that he is doing or saying.</p>
   <p>A state leader position involve frequent travel around the world for attendance at international meetings and summits, so the knowledge of various cultural features and traditions is preferable. As well meetings with representatives of other countries takes a lot of time.</p>
   <p>Despite all the difficulties, leaders get a comprehensive remuneration package, including a car with a driver, a house, high salary, outfits and many other privileges. It’s not the easiest work, so the pay for it is high.</p>
-<table style="width:150%">
+<table style="width:400%">
   <tr>
     <th>+</th>
     <th>1</th>
