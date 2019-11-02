@@ -5,6 +5,7 @@
 <p>I'm hosted with GitHub Pages.</p>
 </body>
 </html>
+<!DOCTYPE html>
 <html>
 <head>
 <title>Page Title</title>
